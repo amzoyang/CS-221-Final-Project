@@ -4,7 +4,7 @@ The primary goal of this research  is to find the best __Fee__ mechanism for tra
 
 # Structure
 1.  model.py and PPO.ipynb
-    Stores trading agents and specify how to train the agents and how to use them. 
+    store trading agents and specify how to train the agents and how to use them. 
 2. [data](https://github.com/amzoyang/CS-221-Final-Project/blob/master/SampleDataset.ipynb)
     Stores the historical data to train the agents
 3. [env](https://github.com/deconlabs/Binanace_trading_simulation/tree/master/env)
