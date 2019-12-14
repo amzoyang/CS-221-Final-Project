@@ -3,7 +3,7 @@
 The primary goal of this research  is to find the best __Fee__ mechanism for trades on the blockchain. Reinforcement Learning (RL) agents acts as people under certain Fee policies. We observe how RL agents's behavior changes with Fee mechanism changes and observe the total fee and volume of trades made by the agent in the trading environment.
 
 # Structure
-1. [agent](https://github.com/deconlabs/Binanace_trading_simulation/tree/master/agent)
+1.  model.py and PPO.ipynb
     Stores trading agents and specify how to train the agents and how to use them. 
 2. [data](https://github.com/amzoyang/CS-221-Final-Project/blob/master/SampleDataset.ipynb)
     Stores the historical data to train the agents
