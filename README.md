@@ -7,8 +7,8 @@ The primary goal of this research  is to find the best __Fee__ mechanism for tra
     store trading agents and specify how to train the agents and how to use them. 
 2. [data](https://github.com/amzoyang/CS-221-Final-Project/blob/master/SampleDataset.ipynb)
     Stores the historical data to train the agents
-3. [env](https://github.com/deconlabs/Binanace_trading_simulation/tree/master/env)
-    Stores the environment where fee different fee mechanisms applied
+3.  DerivativeUtils.py and TradingEnvIntegrated.py
+    store the environment where fee different fee mechanisms applied
 
 # Simulation Method
  1. **Train RL agents** using [trading gym](https://github.com/Yvictor/TradingGym/). 
