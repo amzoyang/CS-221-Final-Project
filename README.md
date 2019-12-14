@@ -18,7 +18,7 @@ The primary goal of this research  is to find the best __Fee__ mechanism for tra
 
  3. **Observe** how agents behave in each environment. Especially watch the total_volume and total_fee from each environment. Derive insights from the observation what characteristics of fee mechanism makes the difference.
 
-# Adopted Fee mechanisms (Could be added more)
+# Adopted Fee mechanisms 
 1. No fee
 2. fee = 0.003 (0.3%)
 3. fee = 0.005 (0.5%)
